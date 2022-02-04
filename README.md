@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Devanshu (@Dev4522v)
-- 👀 I’m interested in Software Development, JS Frontend Frameworks and Coffee Brewing ☕️
+- 👀 I’m interested in Software Development, JS Frameworks, Golang, Devops and Coffee Brewing ☕️
 - 🌱 I’m currently learning Software Engineering, Data Structures and Algorithms, Human Computer Interaction
 - 💞️ I’m looking to collaborate on more Open Source Projects
 - 📫 How to reach me dev4522v@gmail.com
